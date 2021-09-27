@@ -16,3 +16,4 @@ public class Sample_0_Texts {
         System.out.println("a * b = " + a * b);
     }
 }
+

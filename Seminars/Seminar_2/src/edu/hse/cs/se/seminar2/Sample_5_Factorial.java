@@ -1,4 +1,4 @@
-package edu.hse.cs.se.seminar2;
+package Seminar_2.src.edu.hse.cs.se.seminar2;
 
 import java.math.BigInteger;
 
