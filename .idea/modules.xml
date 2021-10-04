@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeWorks/HWsem4/HWsem4.iml" filepath="$PROJECT_DIR$/HomeWorks/HWsem4/HWsem4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminars/Seminar_2/Seminar_2.iml" filepath="$PROJECT_DIR$/Seminars/Seminar_2/Seminar_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminars/Seminar_3/Seminar_3.iml" filepath="$PROJECT_DIR$/Seminars/Seminar_3/Seminar_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminars/Seminar_4/Seminar_4.iml" filepath="$PROJECT_DIR$/Seminars/Seminar_4/Seminar_4.iml" />
